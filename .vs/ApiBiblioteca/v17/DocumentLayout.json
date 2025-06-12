@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|c:\\users\\eavsx\\source\\repos\\eugeniovergara_eva_\\apibiblioteca\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|c:\\users\\eavsx\\source\\repos\\eugeniovergara_eva_\\apibiblioteca\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|solutionrelative:controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|c:\\users\\eavsx\\source\\repos\\eugeniovergara_eva_\\apibiblioteca\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|c:\\users\\eavsx\\source\\repos\\eugeniovergara_eva_\\apibiblioteca\\datos\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5CBC87-0882-FE18-5966-559817076D97}|ApiBiblioteca.csproj|solutionrelative:datos\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:40:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwEkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:39:14.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:38:48.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Datos\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "Datos\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\eavsx\\source\\repos\\EugenioVergara_Eva_\\ApiBiblioteca\\Datos\\BibliotecaContext.cs",
+              "RelativeToolTip": "Datos\\BibliotecaContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:38:32.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
